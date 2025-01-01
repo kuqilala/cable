@@ -1,0 +1,33 @@
+<annotation>
+  <folder>Cable-Color23021801/cable</folder>
+  <filename>Cable-Color23021801/cable_color_balck_14214.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>1280</width>
+    <height>960</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>black</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>268.33</xmin>
+      <ymin>230.16</ymin>
+      <xmax>794.4299999999998</xmax>
+      <ymax>759.12</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>

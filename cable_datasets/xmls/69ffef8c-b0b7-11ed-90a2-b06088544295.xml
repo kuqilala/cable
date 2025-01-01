@@ -1,0 +1,33 @@
+<annotation>
+  <folder></folder>
+  <filename>Cable-Color23022001/69ffef8c-b0b7-11ed-90a2-b06088544295.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>1280</width>
+    <height>960</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>green</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>131.71</xmin>
+      <ymin>147.88</ymin>
+      <xmax>649.26</xmax>
+      <ymax>658.5</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>

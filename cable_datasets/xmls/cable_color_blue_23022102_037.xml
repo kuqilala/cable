@@ -1,0 +1,33 @@
+<annotation>
+  <folder>Cable-Color23022102/cable</folder>
+  <filename>Cable-Color23022102/cable_color_blue_23022102_037.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>1280</width>
+    <height>960</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>blue</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>49.7</xmin>
+      <ymin>215.41</ymin>
+      <xmax>442.43</xmax>
+      <ymax>593.3</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>
